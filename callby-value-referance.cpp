@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
  void referance(int x,int &y){
-    cout<<"Now, we will try what kind of result we can get when use parameter as a referance?"<<endl<<"lets get started"<<endl;
+    cout<<"Now, we will try what kind of result can we get when use parameter as a referance?"<<endl<<"lets get started"<<endl;
     cout<<"firtsly i am giving 1 to x and i have 2 to y"<<endl;
     x=1;
     y=2;
